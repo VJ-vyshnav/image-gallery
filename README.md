@@ -31,6 +31,8 @@ A fully responsive, filterable Media Gallery Web App that displays photos, video
 ├── images/              # Folder with all standalone and stack images
 ├── videos/              # Folder with all video files
 └── videocover/          # Thumbnails for videos
+
+
 📁 How It Works
 The app fetches media data from media.json, which mimics database records.
 
