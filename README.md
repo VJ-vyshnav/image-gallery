@@ -23,9 +23,7 @@ A fully responsive, filterable Media Gallery Web App that displays photos, video
 ✅ Clean, modern UI with animations
 
 🔧 Project Structure
-graphql
-Copy
-Edit
+
 ├── index.html           # Main HTML file
 ├── style.css            # Styling (fully responsive & themed)
 ├── script.js            # JavaScript for rendering & interactivity
@@ -92,3 +90,4 @@ Contributions are welcome! Feel free to fork this repository and submit a pull r
 
 📄 License
 MIT License.
+
