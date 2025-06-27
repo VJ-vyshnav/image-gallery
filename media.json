@@ -1,0 +1,53 @@
+[
+  {
+    "id": 1,
+    "title": "Image Collection",
+    "type": "stack",
+    "file_paths": [
+      "images/1344447.png",
+      "images/1380532.png",
+      "images/wallpaperflare.com_wallpaper (1).jpg",
+      "images/wallpaperflare.com_wallpaper (2).jpg",
+      "images/wallpaperflare.com_wallpaper (3).jpg"
+    ]
+  },
+  {
+    "id": 2,
+    "title": "image1",
+    "type": "photo",
+    "file_path": "images/1344447.png"
+  },
+  {
+    "id": 3,
+    "title": "video1",
+    "type": "video",
+    "file_path": "videos/150883-799711528_small.mp4",
+    "thumbnail_path": "videocover/Screenshot 2025-06-26 182424.png"
+  },
+  {
+    "id": 4,
+    "title": "image2",
+    "type": "photo",
+    "file_path": "images/1380532.png"
+  },
+  {
+    "id": 5,
+    "title": "video2",
+    "type": "video",
+    "file_path": "videos/143882-784164214_small.mp4",
+    "thumbnail_path": "videocover/Screenshot 2025-06-26 182305.png"
+  },
+  {
+    "id": 6,
+    "title": "image3",
+    "type": "photo",
+    "file_path": "images/wallpaperflare.com_wallpaper (1).jpg"
+  },
+  {
+    "id": 7,
+    "title": "video3",
+    "type": "video",
+    "file_path": "videos/148134-793525322_small.mp4",
+    "thumbnail_path": "videocover/Screenshot 2025-06-26 182402.png"
+  }
+]

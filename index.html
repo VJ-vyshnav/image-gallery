@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Professional Media Gallery</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>IMAGE GALLERY</h1>
+        <nav class="filters">
+            <button class="filter-btn active" data-filter="all">All</button>
+            <button class="filter-btn" data-filter="photo">Photos</button>
+            <button class="filter-btn" data-filter="video">Videos</button>
+        </nav>
+    </header>
+
+    <main class="gallery-container">
+        </main>
+
+    <div id="videoModal" class="modal">
+        <span class="close-btn">&times;</span>
+        <video id="modalVideo" controls autoplay></video>
+    </div>
+
+    <div id="stackModal" class="modal">
+        <span class="close-btn">&times;</span>
+        
+        <div class="stack-carousel">
+            <div class="stack-carousel-inner"> 
+                </div>
+        </div>
+
+        <a class="stack-prev-btn">&#10094;</a>
+        <a class="stack-next-btn">&#10095;</a>
+        <div id="stackDotsContainer" class="stack-dots-container"></div>
+    </div>
+
+    <div id="photoLightbox" class="modal">
+        <span class="close-btn photo-lightbox-close">&times;</span>
+        <div class="lightbox-carousel">
+            <div class="lightbox-carousel-inner">
+                </div>
+        </div>
+        <a class="prev-btn">&#10094;</a>
+        <a class="next-btn">&#10095;</a>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
